@@ -1,0 +1,7 @@
+{
+    "doubleQuote": true,
+    "semi": true,
+    "tabWidth": 2,
+    "backSpacing ": true,
+    "trailingComma": "es5"
+}
