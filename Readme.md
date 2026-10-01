@@ -1,0 +1,3 @@
+# Hola I am Ashesh Kanrar, a 3rd year IT Student learnig Backend....
+
+I am learnig Backend with Javascript
